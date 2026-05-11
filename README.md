@@ -7,3 +7,4 @@
 - ###JavaScript Projects
 - [Java Script Bot] (https://github.com/Kenthetic/-Java-Script-Bot-1st-JsProject-)
 - [Math Bot] (https://github.com/Kenthetic/Math-Bot-Project-)
+- [Fortune Teller] (https://github.com/Kenthetic/Fortune-Teller-Project)
