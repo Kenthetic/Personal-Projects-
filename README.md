@@ -10,3 +10,6 @@
 - [Math Bot] (https://github.com/Kenthetic/Math-Bot-Project-)
 - [Fortune Teller] (https://github.com/Kenthetic/Fortune-Teller-Project)
 - [Basic Calculator] (https://github.com/Kenthetic/Basic-Calculator-Project)
+
+###Python Projects
+- [All projects listed here] (https://github.com/Kenthetic/Python-Projects)
